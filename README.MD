@@ -1,6 +1,6 @@
 # Netlify Deploy
 
-Simple command line to deploy to netlify
+Simple command line to deploy to Netlify directly.
 
 # Getting Started
 
